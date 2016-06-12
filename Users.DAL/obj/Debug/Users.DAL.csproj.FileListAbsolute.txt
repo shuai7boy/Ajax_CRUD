@@ -1,0 +1,14 @@
+F:\代码存放\C#\通过Ajax显示插入数据\Users.DAL\obj\Debug\Users.DAL.csprojResolveAssemblyReference.cache
+F:\代码存放\C#\通过Ajax显示插入数据\Users.DAL\bin\Debug\Users.DAL.dll
+F:\代码存放\C#\通过Ajax显示插入数据\Users.DAL\bin\Debug\Users.DAL.pdb
+F:\代码存放\C#\通过Ajax显示插入数据\Users.DAL\bin\Debug\Model.dll
+F:\代码存放\C#\通过Ajax显示插入数据\Users.DAL\bin\Debug\Model.pdb
+F:\代码存放\C#\通过Ajax显示插入数据\Users.DAL\obj\Debug\Users.DAL.dll
+F:\代码存放\C#\通过Ajax显示插入数据\Users.DAL\obj\Debug\Users.DAL.pdb
+G:\代码存放\C#\通过Ajax显示插入数据\Users.DAL\bin\Debug\Users.DAL.dll
+G:\代码存放\C#\通过Ajax显示插入数据\Users.DAL\bin\Debug\Users.DAL.pdb
+G:\代码存放\C#\通过Ajax显示插入数据\Users.DAL\bin\Debug\Model.dll
+G:\代码存放\C#\通过Ajax显示插入数据\Users.DAL\bin\Debug\Model.pdb
+G:\代码存放\C#\通过Ajax显示插入数据\Users.DAL\obj\Debug\Users.DAL.csprojResolveAssemblyReference.cache
+G:\代码存放\C#\通过Ajax显示插入数据\Users.DAL\obj\Debug\Users.DAL.dll
+G:\代码存放\C#\通过Ajax显示插入数据\Users.DAL\obj\Debug\Users.DAL.pdb

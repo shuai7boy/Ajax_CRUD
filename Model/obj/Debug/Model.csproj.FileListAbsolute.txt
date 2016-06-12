@@ -1,0 +1,10 @@
+F:\代码存放\C#\通过Ajax显示插入数据\Model\bin\Debug\Model.dll
+F:\代码存放\C#\通过Ajax显示插入数据\Model\bin\Debug\Model.pdb
+F:\代码存放\C#\通过Ajax显示插入数据\Model\obj\Debug\Model.dll
+F:\代码存放\C#\通过Ajax显示插入数据\Model\obj\Debug\Model.pdb
+F:\代码存放\C#\通过Ajax显示插入数据\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+G:\代码存放\C#\通过Ajax显示插入数据\Model\bin\Debug\Model.dll
+G:\代码存放\C#\通过Ajax显示插入数据\Model\bin\Debug\Model.pdb
+G:\代码存放\C#\通过Ajax显示插入数据\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+G:\代码存放\C#\通过Ajax显示插入数据\Model\obj\Debug\Model.dll
+G:\代码存放\C#\通过Ajax显示插入数据\Model\obj\Debug\Model.pdb
